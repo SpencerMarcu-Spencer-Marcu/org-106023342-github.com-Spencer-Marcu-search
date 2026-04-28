@@ -1,2 +1,2 @@
-# SpencerMarcu-search
+# SpencerMarcu
 Spencer Marcu
